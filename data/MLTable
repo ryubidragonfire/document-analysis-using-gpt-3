@@ -1,0 +1,11 @@
+type: mltable
+
+paths:
+  - pattern: ./*.csv
+transformations:
+  - read_delimited:
+      delimiter: '\t'
+      encoding: ascii
+      header: all_files_same_headers
+      infer_column_types: true
+  - columns: [category, filename, title, content]
