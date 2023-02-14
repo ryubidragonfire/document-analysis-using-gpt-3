@@ -14,6 +14,8 @@ This project is a data analysis of the BBC news dataset. The goal of this projec
 ## Dataset
 The dataset used in this project is the [BBC News Archive](https://www.kaggle.com/datasets/hgultekin/bbcnewsarchive) available from [kaggle](www.kaggle.com). It contains 2225 articles from the BBC news website with 5 different categories: business, entertainment, politics, sport and tech. Each article has a category, filename, title and text.
 
+## Language Model
+Examples in this repo uses `text-davinci-003`. 
 ## Notebooks
 This project consists of five notebooks that perform the following tasks:
 
