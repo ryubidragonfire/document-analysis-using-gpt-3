@@ -37,3 +37,9 @@ The output of this project is stored in the `output` directory. It contains the 
 * `models/xgb.pkl` - Trained XGBoost model
 
 *Note: This README.md is co-authored with `text-davinci-003`.*
+
+--- 
+TO DO:
+- Semantic Text Search on own corpus
+- Q&A on own corpus
+- Unstructured data to structured data
