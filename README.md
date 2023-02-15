@@ -1,4 +1,4 @@
-# Document Analysis using GPT-3
+# Document Analysis using OpenAI GPT-3
 This repository provides a set of examples for performing document analysis using OpenAI's GPT-3 language model. They are: 
 
 * Data Exploration - Explore data used in this repo. 
