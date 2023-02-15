@@ -41,5 +41,4 @@ The output of this project is stored in the `output` directory. It contains the 
 --- 
 TO DO:
 - Semantic Text Search on own corpus
-- Q&A on own corpus
 - Unstructured data to structured data
