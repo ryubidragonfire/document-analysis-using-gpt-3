@@ -25,6 +25,8 @@ This project consists of five notebooks that perform the following tasks:
 4. [03-summarize-documents.ipynb](./notebooks/03-summarize-documents.ipynb) - This notebook uses GPT-3 to generate summaries for each document.
 5. [04-extract-key-information.ipynb](./notebooks/04-extract-key-information.ipynb) - This notebook extracts key information from each document such as people, organizations, locations, etc.
 6. [05-extract-key-words.ipynb](./notebooks/05-extract-key-words.ipynb) - This notebook extracts important keywords from each document.
+7. [06-semantic-search.ipynb](./notebooks/06-semantic-search.ipynb) - This notebook performs semantic search to retreive most relevant news from a specific corpus, by comparing the similiarity of the embeddings of the query to that of the text corpus.
+8. [07-retrieve-information.ipynb](./notebooks/07-retrieve-information.ipynb) This notebook retrieve information based on a given context. This is achieved by contstructing the prompt with context. 
 
 ## Output
 The output of this project is stored in the `output` directory. It contains the following files:
@@ -38,7 +40,10 @@ The output of this project is stored in the `output` directory. It contains the 
 
 *Note: This README.md is co-authored with `text-davinci-003`.*
 
+## References
+- https://github.com/openai/openai-cookbook/ 
+- Which embedding model to use? https://openai.com/blog/new-and-improved-embedding-model/ 
+
 --- 
 TO DO:
-- Semantic Text Search on own corpus
 - Unstructured data to structured data
